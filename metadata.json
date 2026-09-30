@@ -1,0 +1,6 @@
+{
+  "name": "Hayat Fitness Gym",
+  "description": "Kondhwa, Pune's premier strength & conditioning facility. Featuring advanced biomechanical equipment, certified trainers, and dedicated women's workout batches.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
